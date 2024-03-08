@@ -1,0 +1,18 @@
+package orgexamplesandbox.stack;
+
+public class Driver {
+
+    public static void main(String[] args) {
+
+        Stack<String> stack = new ArrayListStack<>();
+
+        System.out.println(stack.empty());
+
+        stack.push("hello");
+        stack.push("Stack");
+        stack.push("What's");
+        stack.push("Up");
+
+        System.out.println(stack);
+    }
+}
