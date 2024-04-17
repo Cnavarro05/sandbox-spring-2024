@@ -1,4 +1,4 @@
-package orgexamplesandbox.algorithm;
+package orgexamplesandbox.recursion;
 
 import java.util.HashMap;
 import java.util.Map;
